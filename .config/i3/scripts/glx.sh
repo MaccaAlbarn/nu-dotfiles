@@ -1,0 +1,3 @@
+#!/bin/bash
+export MESA_GL_VERSION_OVERRIDE=4.5 
+export MESA_GLSL_VERSION_OVERRIDE=460  
